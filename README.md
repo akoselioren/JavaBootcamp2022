@@ -1,7 +1,5 @@
 #### Merhaba kodlama.io Java Bootcamp2022'de öğrendiğim konuları ve yapmış olduğumuz projeleri burada paylaşıyorum. Her hafta yaptığımız işlemleri kısa bir şekilde buraya aktarıyorum daha detaylı görmek için projelerimi inceleyebilirsiniz.
 
-## --------------------------------------------------------------------------------------------------------
-
 ## -1.Hafta (1 Week)
 
 Kamp tanıtımı ve tanışma
